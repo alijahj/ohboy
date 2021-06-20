@@ -1,1 +1,0 @@
-This is Alijah's first git project!
